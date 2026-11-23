@@ -19,6 +19,7 @@ are their own paragraphs). Each repo stays under 40 MB (jsDelivr serves at most
 | `norwegian-qul/` | Norwegian | Oversettelse av Koranens betydninger | [QUL](https://qul.tarteel.ai/resources/translation/41) / Quran.com translation 41 | QUL copy |
 | `polish-bielawski/` | Polish | Przekład znaczeń – Józef Bielawski | [QUL](https://qul.tarteel.ai/resources/translation/42) / Quran.com translation 42 | QUL copy |
 | `tatar-qul/` | Tatar | Мәгънәләр тәрҗемәсе | [QUL](https://qul.tarteel.ai/resources/translation/53) / Quran.com translation 53 | QUL copy |
+| `chechen-magomedov/` | Chechen | Translation of the meanings – Magomed Magomedov | [QUL](https://qul.tarteel.ai/resources/translation/106) / Quran.com translation 106 | QUL copy |
 
 ## Credit and terms
 
